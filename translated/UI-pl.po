@@ -1,0 +1,1424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgctxt "UITextData/CollectablesMenu_Titles_Uncollected_Values_Index2"
+msgid "!$%&@!@"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Titles_Uncollected_Values_Index5"
+msgid "!%#*&$@!!#%@"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Titles_Uncollected_Values_Index4"
+msgid "&!!#@*!$%&"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Titles_Uncollected_Values_Index1"
+msgid "*!#%$@&!!@%#!$"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Uncollected_Values_Index5"
+msgid "3... 2... 1..."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index10"
+msgid "30 Lives"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Titles_Uncollected_Values_Index0"
+msgid "@!!#@*&%$"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Titles_Uncollected_Values_Index3"
+msgid "@#!*&@!!#%$@"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index14"
+msgid "A Seamless Journey"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Episode1Card_Title"
+msgid "A Slight Detour"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index2"
+msgid "A Trip Down Memory Lane..."
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Values_Index3"
+msgid "A children's book. Nothing more. Nothing less."
+msgstr ""
+
+msgctxt "UITextData/Overall_Audio_Description"
+msgid ""
+"A collection of volume settings so you can fine-tune how loud (or quiet) "
+"different parts of the game feel.\n"
+"\n"
+"Change a volume slider to adjust that part of the audio mix in real time."
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Values_Index1"
+msgid "A pair of child-sized swim goggles."
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Values_Index4"
+msgid "A part of something... Rotten."
+msgstr ""
+
+msgctxt "UITextData/Overall_Graphics_Description"
+msgid ""
+"A set of graphics settings customized in an attempt to give you the most "
+"control possible over how our game is rendered and how you'd like to balance "
+"quality and performance while still being understandable if you don't know a "
+"ton about graphics and GPUs.\n"
+"\n"
+"Change a setting to see an overview and description of what it does!\n"
+"\n"
+"While we do encourage you to dive into these settings, we have spent quite a "
+"bit of time configuring tailored presets for as many GPUs as we have been "
+"able to get our hands on, including your...\n"
+"\n"
+"*drumroll*"
+msgstr ""
+
+msgctxt "UITextData/Overall_Immersion_Description"
+msgid ""
+"A set of immersion related settings to help personalize your experience.\n"
+"\n"
+"Change a setting to see an overview and description of what it does!"
+msgstr ""
+
+msgctxt "UITextData/GPreset_Description"
+msgid ""
+"A set of overall graphics presets that scale all quality and detail "
+"settings.\n"
+"\n"
+"<Bold>Medium</>:  The most performance-focused preset. Still very detailed "
+"and good looking.\n"
+"\n"
+"<Bold>High</>:  The default quality setting and the preset all our gameplay "
+"and “renders” have been recorded on. No need to go higher than this.\n"
+"\n"
+"<Bold>Unreasonable</>:  You don’t need this.\n"
+"\n"
+"<Bold>Tailored</>:  A preset specifically designed for your PC (GPU & CPU) "
+"to target a smooth 60fps."
+msgstr ""
+
+msgctxt "UITextData/Overall_General_Description"
+msgid ""
+"A set of the most common settings players like to adjust.\n"
+"\n"
+"If you’d like something added here, reach out and we’ll get it in.\n"
+"\n"
+"Change a setting to see an overview and explanation of what it does!"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Values_Index0"
+msgid "A smiling meal toy. A part of something bigger..."
+msgstr ""
+
+msgctxt "UITextData/Pause_Options_Values_Index4"
+msgid "ACHIEVEMENTS"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Gamma_Values_Index0"
+msgid "ADJUST SLIDER UNTIL JUST BARELY VISIBLE"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index9"
+msgid "AFK for 5 minutes after plugging in the TV in The Basement."
+msgstr ""
+
+msgctxt "UITextData/InteractionOutlines_Values_Index1"
+msgid "ALL"
+msgstr ""
+
+msgctxt "UITextData/GraphicsRevert_Values_Index0"
+msgid "APPLY"
+msgstr ""
+
+msgctxt "UITextData/Overall_Graphics_Values_Index0"
+msgid "APPLY"
+msgstr ""
+
+msgctxt "UITextData/GraphicsRevert_Title"
+msgid "APPLY CHANGES?"
+msgstr ""
+
+msgctxt "UITextData/Overall_Audio_Title"
+msgid "AUDIO"
+msgstr ""
+
+msgctxt "UITextData/DOF_Description"
+msgid ""
+"Adds camera-style focus blur to objects based on distance. Makes scenes feel "
+"more cinematic but has a small performance cost.\n"
+"\n"
+"<Bold>OFF</>:  No depth blur. Everything stays fully sharp.\n"
+"\n"
+"<Bold>ON</>:  Enables depth-based blur for a more film-like look, with "
+"slight GPU usage."
+msgstr ""
+
+msgctxt "UITextData/Gamma_Description"
+msgid ""
+"Adjusts overall screen brightness. Higher gamma lifts dark areas; lower "
+"gamma makes shadows deeper and the image more contrasty.\n"
+"\n"
+"Use the slider to tune visibility to your preference or your display."
+msgstr ""
+
+msgctxt "UITextData/Crosshair_Values_Index1"
+msgid "Always"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Values_Index2"
+msgid "An arcade token. Still warm to the touch."
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Values_Index5"
+msgid "An old VHS tape. Stored away for safe keeping."
+msgstr ""
+
+msgctxt "UITextData/Antialiasing_Title"
+msgid "Anti-aliasing"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Titles_Values_Index2"
+msgid "Arcade Token"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Devnote_Values_Index0"
+msgid ""
+"As a small team of devs and artists we've poured our hearts into this "
+"project and\n"
+"would love for you to experience SUBLIMINAL in as pure of an environment as "
+"possible.\n"
+"So if you can, we invite you to darken the room and pop on some of your best "
+"headphones."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index7"
+msgid "Avoid a repressed memory in the Dark Playplace."
+msgstr ""
+
+msgctxt "UITextData/NVIDIAReflex_Values_Index2"
+msgid "BOOST"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Uncollected_Values_Index4"
+msgid "Bait..."
+msgstr ""
+
+msgctxt "UITextData/DLSSMode_Values_Index3"
+msgid "Balanced"
+msgstr ""
+
+msgctxt "UITextData/FSRMode_Values_Index2"
+msgid "Balanced"
+msgstr ""
+
+msgctxt "UITextData/XESSMode_Values_Index4"
+msgid "Balanced"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index15"
+msgid "Beat the high score on Memory Lane."
+msgstr ""
+
+msgctxt "UITextData/WindowMode_Values_Index2"
+msgid "Borderless"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index24"
+msgid "Break the soda machine."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index24"
+msgid "Broke Standard Orientation Protocol"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Devnote_Values_Index2"
+msgid "CLICK ANYWHERE TO CONTINUE"
+msgstr ""
+
+msgctxt "UITextData/Pause_Options_Values_Index2"
+msgid "COLLECTIBLES"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Episode2Card_Values_Index0"
+msgid "COMING SOON..."
+msgstr ""
+
+msgctxt "UITextData/Overall_Controls_Title"
+msgid "CONTROLS"
+msgstr ""
+
+msgctxt "UITextData/CameraShake_Title"
+msgid "Camera Shake Scale"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index17"
+msgid "Camera-shy"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Titles_Values_Index3"
+msgid "Children's Book"
+msgstr ""
+
+msgctxt "UITextData/VoiceLanguage_Values_Index1"
+msgid "Chinese (Simplified)"
+msgstr ""
+
+msgctxt "UITextData/Collectable_Values_Index1"
+msgid "Collect"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index5"
+msgid "Collect all collectibles."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index20"
+msgid "Collect your first death."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index5"
+msgid "Collector"
+msgstr ""
+
+msgctxt "UITextData/Colorblind_Title"
+msgid "Colorblind Mode"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index14"
+msgid "Complete all endings and collect all collectibles without dying."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index6"
+msgid "Complete all endings and collect all collectibles."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index4"
+msgid "Complete all endings."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index2"
+msgid "Complete the Arcade ending."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index18"
+msgid "Complete the Canon ending without using the flashlight."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index0"
+msgid "Complete the Canon ending."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index1"
+msgid "Complete the Erase ending."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index3"
+msgid "Complete the ROT ending."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index22"
+msgid "Completely rinse away the mess you made."
+msgstr ""
+
+msgctxt "UITextData/Upscaler_Values_Index4"
+msgid "Controlled By "
+msgstr ""
+
+msgctxt "UITextData/ControllerStyle_Title"
+msgid "Controller Style"
+msgstr ""
+
+msgctxt "UITextData/WindowMode_Description"
+msgid ""
+"Controls how the game window behaves on your screen.\n"
+"\n"
+"<Bold>Windowed</>:  Runs in a movable window. Easy to alt-tab and multitask, "
+"but not ideal for performance.\n"
+"\n"
+"<Bold>Fullscreen</>:  Takes over your monitor for the best performance and "
+"lowest input latency.\n"
+"\n"
+"<Bold>Borderless</>:  Looks like fullscreen but behaves like a window. Great "
+"for smooth tabbing with only a slight performance cost."
+msgstr ""
+
+msgctxt "UITextData/FOVConstraint_Description"
+msgid ""
+"Controls how the screen crops in/out <Bold>IF</> you are using a wider than "
+"normal screen.\n"
+"\n"
+"<Bold>Lock to X</>:  This locks the width (X-Axis) of your screen to the "
+"game camera's width, and crops in the top and bottom to match your screen. "
+"This keeps all the camera trickery we have working in-game.\n"
+"\n"
+"<Bold>Lock to Y</>:  This locks the height (Y-Axis) of your screen to the "
+"game camera's height, and expands the sides out to match your screen. This "
+"does unfortunately break a few camera trickery scenes in-game:/ So be "
+"cautious when switching to this."
+msgstr ""
+
+msgctxt "UITextData/Crosshair_Title"
+msgid "Crosshair"
+msgstr ""
+
+msgctxt "UITextData/CrosshairThickness_Title"
+msgid "Crosshair Thickness"
+msgstr ""
+
+msgctxt "UITextData/Crouch_Title"
+msgid "Crouch"
+msgstr ""
+
+msgctxt "UITextData/CrouchMode_Title"
+msgid "Crouch Mode"
+msgstr ""
+
+msgctxt "UITextData/GeneralPreset_Values_Index4"
+msgid "Custom"
+msgstr ""
+
+msgctxt "UITextData/Overall_Controls_Description"
+msgid ""
+"Customize how you move, look, and interact. These settings let you adjust "
+"controls to feel as natural as you want."
+msgstr ""
+
+msgctxt "UITextData/Upscaler_Values_Index1"
+msgid "DLSS"
+msgstr ""
+
+msgctxt "UITextData/DLSSFG_Title"
+msgid "DLSS Frame Generation"
+msgstr ""
+
+msgctxt "UITextData/DLSSMode_Title"
+msgid "DLSS Mode"
+msgstr ""
+
+msgctxt "UITextData/DLSSRR_Title"
+msgid "DLSS Ray Reconstruction"
+msgstr ""
+
+msgctxt "UITextData/DOF_Title"
+msgid "Depth of Field"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index16"
+msgid "Destroy a security camera."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index17"
+msgid "Destroy over a DOZEN security cameras."
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Devnote_Title"
+msgid "Dev Note"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index10"
+msgid "Do you know this iconic code?"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index13"
+msgid "Double the Fun"
+msgstr ""
+
+msgctxt "UITextData/Pause_Options_Values_Index3"
+msgid "EJECT"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Options_Values_Index1"
+msgid "EJECT"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index23"
+msgid "Emotionally Secure"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index12"
+msgid "Encounter every animal picture in The Basement."
+msgstr ""
+
+msgctxt "UITextData/TextLanguage_Values_Index0"
+msgid "English"
+msgstr ""
+
+msgctxt "UITextData/VoiceLanguage_Values_Index0"
+msgid "English"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index1"
+msgid "Erased"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index4"
+msgid "Every Thread Unwoven"
+msgstr ""
+
+msgctxt "UITextData/FOVConstraint_Title"
+msgid "FOV Constraint"
+msgstr ""
+
+msgctxt "UITextData/FPSLimit_Title"
+msgid "FPS Limit"
+msgstr ""
+
+msgctxt "UITextData/Upscaler_Values_Index2"
+msgid "FSR"
+msgstr ""
+
+msgctxt "UITextData/FSRFG_Title"
+msgid "FSR Frame Generation"
+msgstr ""
+
+msgctxt "UITextData/FSRMode_Title"
+msgid "FSR Mode"
+msgstr ""
+
+msgctxt "UITextData/Antialiasing_Values_Index1"
+msgid "FXAA"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Uncollected_Values_Index1"
+msgid "Fogged..."
+msgstr ""
+
+msgctxt "UITextData/FoleyVolume_Title"
+msgid "Foley Volume"
+msgstr ""
+
+msgctxt "UITextData/FootstepVolume_Title"
+msgid "Footstep Volume"
+msgstr ""
+
+msgctxt "UITextData/WindowMode_Values_Index1"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt "UITextData/Overall_General_Title"
+msgid "GENERAL"
+msgstr ""
+
+msgctxt "UITextData/Overall_Graphics_Title"
+msgid "GRAPHICS"
+msgstr ""
+
+msgctxt "UITextData/Gamma_Title"
+msgid "Gamma"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index19"
+msgid "Golden Master"
+msgstr ""
+
+msgctxt "UITextData/GPreset_Title"
+msgid "Graphics Preset"
+msgstr ""
+
+msgctxt "UITextData/HUD_BarrierFlip_Values_Index0"
+msgid "HOLD"
+msgstr ""
+
+msgctxt "UITextData/HUD_LookAt_Values_Index0"
+msgid "HOLD YOUR GAZE TO FOCUS"
+msgstr ""
+
+msgctxt "UITextData/HUDIcons_Title"
+msgid "HUD Icons"
+msgstr ""
+
+msgctxt "UITextData/HWRT_Title"
+msgid "Hardware RT"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index11"
+msgid "Hide and Seek"
+msgstr ""
+
+msgctxt "UITextData/GeneralPreset_Values_Index1"
+msgid "High"
+msgstr ""
+
+msgctxt "UITextData/CrouchMode_Values_Index0"
+msgid "Hold"
+msgstr ""
+
+msgctxt "UITextData/SprintMode_Values_Index0"
+msgid "Hold"
+msgstr ""
+
+msgctxt "UITextData/Overall_Immersion_Title"
+msgid "IMMERSION"
+msgstr ""
+
+msgctxt "UITextData/Upscaler_Description"
+msgid ""
+"Improves performance by rendering at a lower resolution and scaling the "
+"image back up. Quality depends on your GPU and the mode you choose.\n"
+"\n"
+"<Bold>None</>:  No upscaling. Sharpest image but the heaviest on "
+"performance.\n"
+"\n"
+"<Bold>DLSS</>:  NVIDIA-only. Delivers strong performance boosts with very "
+"sharp AI-assisted reconstruction.\n"
+"\n"
+"<Bold>FSR</>:  Works on almost any GPU. Good performance and decent "
+"sharpness, though not as clean as DLSS.\n"
+"\n"
+"<Bold>XeSS</>:  Best on Intel GPUs but works on others. Similar to DLSS-"
+"style upscaling, with quality varying by hardware."
+msgstr ""
+
+msgctxt "UITextData/Interact_Title"
+msgid "Interact"
+msgstr ""
+
+msgctxt "UITextData/InteractionOutlines_Title"
+msgid "Interaction Outlines"
+msgstr ""
+
+msgctxt "UITextData/Crosshair_Values_Index2"
+msgid "Interactive"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index0"
+msgid "Into the Pit"
+msgstr ""
+
+msgctxt "UITextData/InvertLookX_Title"
+msgid "Invert Look X"
+msgstr ""
+
+msgctxt "UITextData/InvertLookY_Title"
+msgid "Invert Look Y"
+msgstr ""
+
+msgctxt "UITextData/Jump_Title"
+msgid "Jump"
+msgstr ""
+
+msgctxt "UITextData/Keybinds_Title"
+msgid "Keybinds"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Episode1Card_Values_Index0"
+msgid "LOAD"
+msgstr ""
+
+msgctxt "UITextData/FOVConstraint_Values_Index0"
+msgid "Lock to X"
+msgstr ""
+
+msgctxt "UITextData/FOVConstraint_Values_Index1"
+msgid "Lock to Y"
+msgstr ""
+
+msgctxt "UITextData/LookSensitivity_Title"
+msgid "Look Sensitivity"
+msgstr ""
+
+msgctxt "UITextData/LumenQuality_Title"
+msgid "Lumen Quality"
+msgstr ""
+
+msgctxt "UITextData/HUD_Collectable_Values_Index0"
+msgid "MOVE MOUSE TO ROTATE..."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index12"
+msgid "Man's Best Friend"
+msgstr ""
+
+msgctxt "UITextData/MasterVolume_Title"
+msgid "Master Volume"
+msgstr ""
+
+msgctxt "UITextData/GeneralPreset_Values_Index0"
+msgid "Medium"
+msgstr ""
+
+msgctxt "UITextData/MemoryMeter_Title"
+msgid "Memory Meter"
+msgstr ""
+
+msgctxt "UITextData/MotionBlur_Title"
+msgid "Motion Blur Amount"
+msgstr ""
+
+msgctxt "UITextData/MoveBackward_Title"
+msgid "Move Backward"
+msgstr ""
+
+msgctxt "UITextData/MoveForward_Title"
+msgid "Move Forward"
+msgstr ""
+
+msgctxt "UITextData/MoveLeft_Title"
+msgid "Move Left"
+msgstr ""
+
+msgctxt "UITextData/MoveRight_Title"
+msgid "Move Right"
+msgstr ""
+
+msgctxt "UITextData/HUD_NoKeycard_Values_Index0"
+msgid "NO KEYCARD"
+msgstr ""
+
+msgctxt "UITextData/HUD_NoTickets_Values_Index0"
+msgid "NO TICKETS"
+msgstr ""
+
+msgctxt "UITextData/NVIDIAReflex_Title"
+msgid "NVIDIA Reflex"
+msgstr ""
+
+msgctxt "UITextData/NarrationVolume_Title"
+msgid "Narration Volume"
+msgstr ""
+
+msgctxt "UITextData/DLSSMode_Values_Index0"
+msgid "Native +"
+msgstr ""
+
+msgctxt "UITextData/FSRMode_Values_Index0"
+msgid "Native +"
+msgstr ""
+
+msgctxt "UITextData/XESSMode_Values_Index0"
+msgid "Native +"
+msgstr ""
+
+msgctxt "UITextData/Crosshair_Values_Index0"
+msgid "Never"
+msgstr ""
+
+msgctxt "UITextData/Antialiasing_Values_Index0"
+msgid "None"
+msgstr ""
+
+msgctxt "UITextData/Upscaler_Values_Index0"
+msgid "None"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index18"
+msgid "Nyctophile"
+msgstr ""
+
+msgctxt "UITextData/Colorblind_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/DLSSRR_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/DOF_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/FSRFG_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/HUDIcons_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/HWRT_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/InteractionOutlines_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/InvertLookX_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/InvertLookY_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/NVIDIAReflex_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/PuzzleHints_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/Subtitles_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/Tutorials_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/UIEffects_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/Vsync_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/XESSFG_Values_Index0"
+msgid "OFF"
+msgstr ""
+
+msgctxt "UITextData/Colorblind_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/DLSSRR_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/DOF_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/FSRFG_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/HUDIcons_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/HWRT_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/InvertLookX_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/InvertLookY_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/NVIDIAReflex_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/PuzzleHints_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/Subtitles_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/Tutorials_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/UIEffects_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/Vsync_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/XESSFG_Values_Index1"
+msgid "ON"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Uncollected_Values_Index2"
+msgid "One more... Just one more."
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Uncollected_Values_Index3"
+msgid "Overgrown..."
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_PressAnywhere_Values_Index0"
+msgid "PRESS ANYWHERE TO START"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Descriptions_Uncollected_Values_Index0"
+msgid "Part of a balanced meal..."
+msgstr ""
+
+msgctxt "UITextData/DLSSMode_Values_Index4"
+msgid "Performance"
+msgstr ""
+
+msgctxt "UITextData/FSRMode_Values_Index3"
+msgid "Performance"
+msgstr ""
+
+msgctxt "UITextData/XESSMode_Values_Index5"
+msgid "Performance"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index6"
+msgid "Photographic Memory"
+msgstr ""
+
+msgctxt "UITextData/Collectable_Values_Index0"
+msgid "Pick Up"
+msgstr ""
+
+msgctxt "UITextData/ControllerStyle_Values_Index1"
+msgid "Playstation"
+msgstr ""
+
+msgctxt "UITextData/PuzzleHints_Title"
+msgid "Puzzle Hints"
+msgstr ""
+
+msgctxt "UITextData/DLSSMode_Values_Index2"
+msgid "Quality"
+msgstr ""
+
+msgctxt "UITextData/FSRMode_Values_Index1"
+msgid "Quality"
+msgstr ""
+
+msgctxt "UITextData/XESSMode_Values_Index3"
+msgid "Quality"
+msgstr ""
+
+msgctxt "UITextData/RecompileShaders_Values_Index0"
+msgid "RECOMPILE"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Episode1Card_Values_Index1"
+msgid "RELOAD"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Reset_Values_Index0"
+msgid "RESET"
+msgstr ""
+
+msgctxt "UITextData/ResetSettings_Values_Index0"
+msgid "RESET EVERYTHING"
+msgstr ""
+
+msgctxt "UITextData/Pause_Options_Values_Index0"
+msgid "RESUME"
+msgstr ""
+
+msgctxt "UITextData/GraphicsRevert_Values_Index1"
+msgid "REVERT"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index3"
+msgid "ROTTEN"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index20"
+msgid "Reality Check"
+msgstr ""
+
+msgctxt "UITextData/RecompileShaders_Title"
+msgid "Recompile Shaders"
+msgstr ""
+
+msgctxt "UITextData/RecompileShaders_Description"
+msgid ""
+"Recompile all Shaders. Doing this after graphics driver updates can help "
+"remove initial loading hitches."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index21"
+msgid "Redacted"
+msgstr ""
+
+msgctxt "UITextData/Antialiasing_Description"
+msgid ""
+"Reduces jagged edges and shimmering. Higher options look smoother but may "
+"soften the image or use more GPU power.\n"
+"\n"
+"<Bold>None</>:  No smoothing. Sharp but very jagged, especially in motion.\n"
+"\n"
+"<Bold>FXAA</>:  Fast and cheap. Smooths edges lightly but can blur small "
+"details.\n"
+"\n"
+"<Bold>TAA</>:  Stable, good overall quality. Softens the image a bit but "
+"removes most shimmer.\n"
+"\n"
+"<Bold>TSR</>:  Best quality. Sharper than TAA and works beautifully paired "
+"with upscaling, but uses more GPU."
+msgstr ""
+
+msgctxt "UITextData/ReflectionQuality_Title"
+msgid "Reflection Quality"
+msgstr ""
+
+msgctxt "UITextData/ResetSettings_Description"
+msgid "Reset <Bold>every. single. setting.</>"
+msgstr ""
+
+msgctxt "UITextData/Keybinds_Values_Index0"
+msgid "Reset ALL"
+msgstr ""
+
+msgctxt "UITextData/ResetSettings_Title"
+msgid "Reset Settings"
+msgstr ""
+
+msgctxt "UITextData/Resolution_Title"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "UITextData/ResolutionScale_Title"
+msgid "Resolution Scale"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index13"
+msgid "Ride the blue slide a second time in WaterWorks."
+msgstr ""
+
+msgctxt "UITextData/Pause_Options_Values_Index1"
+msgid "SETTINGS"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Options_Values_Index0"
+msgid "SETTINGS"
+msgstr ""
+
+msgctxt "UITextData/InteractionOutlines_Values_Index2"
+msgid "SPECIAL"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index9"
+msgid "Saturday Showtimes"
+msgstr ""
+
+msgctxt "UITextData/TextureQuality_Description"
+msgid ""
+"Scales all texture LODs up or down.\n"
+"\n"
+"Helpful if you’re getting random stutters or seeing a few extremely blurry "
+"textures in otherwise sharp scenes.\n"
+"\n"
+"<Bold>Needless in-depth explanation</>:  The game uses texture streaming "
+"instead of traditional static texture LODs. Textures are pulled in "
+"dynamically as needed and stored in a “streaming pool” on your GPU, which "
+"uses a chunk of your VRAM. This usually works great, but it has two possible "
+"issues:\n"
+"\n"
+"-- If the streaming pool gets close to maxing out your VRAM, it can cause "
+"big framerate drops as it briefly exceeds what the GPU can handle.\n"
+"\n"
+"-- If it goes far over that limit, the engine will randomly kick a few "
+"textures out of the pool to save space. Those textures fall back to their "
+"lowest-detail versions, which show up as big blurry patches in the world.\n"
+"\n"
+"Scaling texture LODs down makes each texture smaller in memory, which helps "
+"prevent the streaming pool from overflowing."
+msgstr ""
+
+msgctxt "UITextData/LumenQuality_Description"
+msgid ""
+"Scales the detail and quality of Lumen Global Illumination.\n"
+"\n"
+"<Bold>Medium</>:  Scales back Lumen Final Gather Quality*, Lumen Scene "
+"Detail**, update speed, and a few other minor settings to squeeze out extra "
+"performance.\n"
+"\n"
+"<Bold>High</>:  Raises Lumen Final Gather Quality, Scene Detail, update "
+"speed, and various other settings for noticeably better GI quality.\n"
+"\n"
+"<Bold>Unreasonable</>:  There is such a thing as diminishing returns… and "
+"this is it. You don’t need to go this high.\n"
+"\n"
+"<Bold>Tailored</>:  Custom Lumen settings tuned to your specific hardware.\n"
+"\n"
+"*<Bold>Lumen Final Gather Quality</>:  Controls how much effort Lumen puts "
+"into calculating where indirect lighting should appear. Very expensive but "
+"helps reduce flickery or blotchy GI.\n"
+"\n"
+"**<Bold>Lumen Scene Detail</>:  Controls the resolution of Lumen’s internal "
+"low-res scene snapshot used for GI. Higher detail improves accuracy but "
+"costs more performance."
+msgstr ""
+
+msgctxt "UITextData/ReflectionQuality_Description"
+msgid ""
+"Scales the detail and quality of all reflections.\n"
+"\n"
+"<Bold>Medium</>:  Scales Lumen reflections down to the minimum needed to "
+"look good and slightly lowers baked reflection quality.\n"
+"\n"
+"<Bold>High</>:  Sets Lumen reflections to mid quality, enables the Surface "
+"Cache*, and raises baked reflections to full quality.\n"
+"\n"
+"<Bold>Unreasonable</>:  Full ray-traced Lumen reflections at nearly double "
+"quality on top of baked reflections.\n"
+"\n"
+"<Bold>Tailored</>:  Custom reflection settings tuned to your specific "
+"hardware.\n"
+"\n"
+"*<Bold>Surface Cache</>:  A very low-resolution render of the entire scene "
+"that Lumen uses to approximate reflections without tracing every bounce. "
+"Great-looking results at a fraction of the cost, just less technically "
+"accurate than full ray-tracing."
+msgstr ""
+
+msgctxt "UITextData/ShadowQuality_Description"
+msgid ""
+"Scales the resolution, accuracy, and update quality of all dynamic shadows "
+"in the game.\n"
+"\n"
+"<Bold>Medium</>:  Lower-resolution shadows with reduced update quality. "
+"Still looks good but prioritizes performance.\n"
+"\n"
+"<Bold>High</>:  Higher shadow resolution, cleaner contact edges, and better "
+"update stability. Recommended for most systems.\n"
+"\n"
+"<Bold>Unreasonable</>:  Pushes shadow resolution and update precision to "
+"extreme levels. Very sharp, very expensive, and mostly unnecessary."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index7"
+msgid "Secret Tunnel"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index11"
+msgid "Seek out both plushies in The Basement."
+msgstr ""
+
+msgctxt "UITextData/FPSLimit_Description"
+msgid ""
+"Sets the maximum frame rate the game can render. Lower limits reduce heat "
+"and power usage; higher limits feel smoother but increase GPU load.\n"
+"\n"
+"Type in any FPS value your hardware can handle."
+msgstr ""
+
+msgctxt "UITextData/ShadowQuality_Title"
+msgid "Shadow Quality"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Titles_Values_Index4"
+msgid "Shattered Tooth"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Devnote_Values_Index3"
+msgid ""
+"Side Note: If you have headphones, we recommend making sure Windows 'Spacial "
+"Sound' is enabled. If it's left off our audio spacialization won't properly "
+"work:/"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index8"
+msgid "Smile Attack"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index16"
+msgid "Smile for the Camera"
+msgstr ""
+
+msgctxt "UITextData/SoundtrackVolume_Title"
+msgid "Soundtrack & Score Volume"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index21"
+msgid "Spell [REDACTED] on the mini fridge in the basement."
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index22"
+msgid "Splish Splash"
+msgstr ""
+
+msgctxt "UITextData/Sprint_Title"
+msgid "Sprint"
+msgstr ""
+
+msgctxt "UITextData/SprintMode_Title"
+msgid "Sprint Mode"
+msgstr ""
+
+msgctxt "UITextData/Subtitles_Title"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Episode2Card_Title"
+msgid "Sunk Cost"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Titles_Values_Index1"
+msgid "Swim Goggles"
+msgstr ""
+
+msgctxt "UITextData/Vsync_Description"
+msgid ""
+"Synchronizes the game’s frame rate with your monitor to prevent screen "
+"tearing. Can slightly increase input latency.\n"
+"\n"
+"<Bold>OFF</>:  No syncing. Faster input response, but tearing may appear "
+"during fast movement.\n"
+"\n"
+"<Bold>ON</>:  Smooths out tearing by matching frames to your display’s "
+"refresh rate, at the cost of a bit more latency."
+msgstr ""
+
+msgctxt "UITextData/Antialiasing_Values_Index2"
+msgid "TAA"
+msgstr ""
+
+msgctxt "UITextData/HUD_Collectable_Values_Index1"
+msgid "TO COLLECT"
+msgstr ""
+
+msgctxt "UITextData/HUD_BarrierFlip_Values_Index1"
+msgid "TO FLIP BARRIER"
+msgstr ""
+
+msgctxt "UITextData/HUD_Interact_Values_Index0"
+msgid "TO INTERACT"
+msgstr ""
+
+msgctxt "UITextData/HUD_Clock_Values_Index1"
+msgid "TO MOVE SELECTED HAND"
+msgstr ""
+
+msgctxt "UITextData/HUD_CombinationLock_Values_Index0"
+msgid "TO MOVE THE DIALS"
+msgstr ""
+
+msgctxt "UITextData/HUD_Squeeze_Values_Index0"
+msgid "TO SQUEEZE"
+msgstr ""
+
+msgctxt "UITextData/HUD_Clock_Values_Index2"
+msgid "TO SWITCH HANDS"
+msgstr ""
+
+msgctxt "UITextData/HUD_Crouch_Values_Index0"
+msgid "TO TOGGLE CROUCH AND KEEP QUIET"
+msgstr ""
+
+msgctxt "UITextData/HUD_MemoryMeter_Values_Index0"
+msgid "TO TOGGLE THE MEMORY METER"
+msgstr ""
+
+msgctxt "UITextData/HUD_Flashlight_Values_Index0"
+msgid "TO USE FLASHLIGHT"
+msgstr ""
+
+msgctxt "UITextData/Antialiasing_Values_Index3"
+msgid "TSR"
+msgstr ""
+
+msgctxt "UITextData/GeneralPreset_Values_Index3"
+msgid "Tailored"
+msgstr ""
+
+msgctxt "UITextData/TextLanguage_Title"
+msgid "Text Language"
+msgstr ""
+
+msgctxt "UITextData/TextureQuality_Title"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Devnote_Values_Index1"
+msgid "Thank you for being here."
+msgstr ""
+
+msgctxt "UITextData/Resolution_Description"
+msgid ""
+"The base resolution that the game will run at if resolution scale is set to "
+"100%"
+msgstr ""
+
+msgctxt "UITextData/ResolutionScale_Description"
+msgid ""
+"The percent of your base resolution that the game actually runs at, and the "
+"resolution that gets fed into the current upscaler (if any)."
+msgstr ""
+
+msgctxt "UITextData/HWRT_Description"
+msgid ""
+"This setting toggles whether your GPU uses its RT (raytracing) cores.\n"
+"\n"
+"<Bold>Important</>:  This is auto-set by our tailored settings system, and "
+"99% of the time is already on the best setting.\n"
+"\n"
+"<Bold>OFF</>:  Uses software raytracing for Lumen and Shadows.\n"
+"\n"
+"<Bold>ON</>:  Uses hardware raytracing for Lumen and Shadows. Slightly more "
+"realistic for both GI and shadowing.\n"
+"\n"
+"<Bold>Needless Detail</>:  We auto-set this by detecting your GPU and "
+"choosing the best-performing option based on our testing. If you have an RTX "
+"or RX 6-series+ card, your GPU can use Hardware RT—and higher-end cards "
+"almost always perform better with it on. Mid-tier cards (~RTX 3060) can go "
+"either way, so you might want to experiment a bit. :)"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index8"
+msgid "Throw a Smile plushie at Smile."
+msgstr ""
+
+msgctxt "UITextData/Credits_Values_Index0"
+msgid "To Backup"
+msgstr ""
+
+msgctxt "UITextData/Credits_Values_Index1"
+msgid "To Fast Forward"
+msgstr ""
+
+msgctxt "UITextData/CrouchMode_Values_Index1"
+msgid "Toggle"
+msgstr ""
+
+msgctxt "UITextData/SprintMode_Values_Index1"
+msgid "Toggle"
+msgstr ""
+
+msgctxt "UITextData/ToggleNarration_Title"
+msgid "Toggle Narration"
+msgstr ""
+
+msgctxt "UITextData/TextLanguage_Description"
+msgid ""
+"Toggle between all supported text languages.\n"
+"\n"
+"Hopefully you can read this..."
+msgstr ""
+
+msgctxt "UITextData/VoiceLanguage_Description"
+msgid ""
+"Toggle between all supported voice languages.\n"
+"\n"
+"Hopefully you can read this..."
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Titles_Values_Index0"
+msgid "Toy Figurine"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index23"
+msgid "Trigger every single line of emotional encouragement."
+msgstr ""
+
+msgctxt "UITextData/Tutorials_Title"
+msgid "Tutorials"
+msgstr ""
+
+msgctxt "UITextData/UIEffects_Title"
+msgid "UI Effects"
+msgstr ""
+
+msgctxt "UITextData/HUD_Clock_Values_Index0"
+msgid "USE"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Titles_Values_Index15"
+msgid "Ultimate Gamer"
+msgstr ""
+
+msgctxt "UITextData/DLSSMode_Values_Index5"
+msgid "Ultra Performance"
+msgstr ""
+
+msgctxt "UITextData/FSRMode_Values_Index4"
+msgid "Ultra Performance"
+msgstr ""
+
+msgctxt "UITextData/XESSMode_Values_Index6"
+msgid "Ultra Performance"
+msgstr ""
+
+msgctxt "UITextData/DLSSMode_Values_Index1"
+msgid "Ultra Quality"
+msgstr ""
+
+msgctxt "UITextData/XESSMode_Values_Index2"
+msgid "Ultra Quality"
+msgstr ""
+
+msgctxt "UITextData/XESSMode_Values_Index1"
+msgid "Ultra Quality +"
+msgstr ""
+
+msgctxt "UITextData/AchievementsMenu_Descriptions_Values_Index19"
+msgid "Unlock all achievements."
+msgstr ""
+
+msgctxt "UITextData/GeneralPreset_Values_Index2"
+msgid "Unreasonable"
+msgstr ""
+
+msgctxt "UITextData/Upscaler_Title"
+msgid "Upscaler"
+msgstr ""
+
+msgctxt "UITextData/UseLeft_Title"
+msgid "Use Left"
+msgstr ""
+
+msgctxt "UITextData/UseRight_Title"
+msgid "Use Right"
+msgstr ""
+
+msgctxt "UITextData/CollectablesMenu_Titles_Values_Index5"
+msgid "VHS Tape"
+msgstr ""
+
+msgctxt "UITextData/VoiceLanguage_Title"
+msgid "Voice Language"
+msgstr ""
+
+msgctxt "UITextData/Vsync_Title"
+msgid "Vsync"
+msgstr ""
+
+msgctxt "UITextData/Titlescreen_Episode2Card_Values_Index1"
+msgid "WISHLIST"
+msgstr ""
+
+msgctxt "UITextData/WindowMode_Title"
+msgid "Window Mode"
+msgstr ""
+
+msgctxt "UITextData/WindowMode_Values_Index0"
+msgid "Windowed"
+msgstr ""
+
+msgctxt "UITextData/Upscaler_Values_Index3"
+msgid "XESS"
+msgstr ""
+
+msgctxt "UITextData/XESSFG_Title"
+msgid "XESS Frame Generation"
+msgstr ""
+
+msgctxt "UITextData/XESSMode_Title"
+msgid "XESS Mode"
+msgstr ""
+
+msgctxt "UITextData/ControllerStyle_Values_Index0"
+msgid "Xbox"
+msgstr ""
+
+msgctxt "UITextData/Zoom_Title"
+msgid "Zoom"
+msgstr ""

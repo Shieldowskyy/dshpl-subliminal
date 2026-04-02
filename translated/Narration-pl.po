@@ -1,0 +1,1594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgctxt "NarrationTextData/CM_SmileEncounter_Maintenance_Lines_Index3_Line"
+msgid ""
+" There’s no need for alarm of course. We’ll get around to cleaning this up "
+"eventually."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Maintenance_Door_Storage_Lines_Index1_Line"
+msgid " We have much more exciting things ahead of us."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_MemoryLoop_Intro_Lines_Index0_Line"
+msgid "- We don’t have time for this."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryDisposal_Alternate_0_Lines_Index1_Line"
+msgid "---"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryDisposal_Alternate_1_Lines_Index1_Line"
+msgid "---"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage1_Pt1_Lines_Index2_Line"
+msgid ""
+"-I told you this memory isn’t ready yet. Please immediately find something "
+"else to focus on."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage1_Pt2_Lines_Index4_Line"
+msgid "-everything will be fine…"
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index15_Line"
+msgid "-or perhaps that faint smell of chlorine from a day at the waterpark."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_SmileEncounter_Maintenance_Lines_Index2_Line"
+msgid ""
+"-that we’re working to clear out, to seep into our currently focused memory."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Lost_Lines_Index6_Line"
+msgid "..."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryMeterBreak_Lines_Index1_Line"
+msgid "..."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage1_Pt1_Lines_Index1_Line"
+msgid "..."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage2_Lines_Index1_Line"
+msgid "..."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage3_Lines_Index2_Line"
+msgid "..."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage1_Lines_Index9_Line"
+msgid "..."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_FunOMeter_Retry_Pt4_Lines_Index0_Line"
+msgid "..."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_ROT_Lines_Index4_Line"
+msgid "..."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Nudge_Lines_Index2_Line"
+msgid ""
+"A little nudge… Something unexpected… should be enough to interrupt the loop "
+"and steer us back on course."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryMeterNudge_Pt3_Lines_Index0_Line"
+msgid "AHM."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCamKnockOff_3_Lines_Index0_Line"
+msgid "Again, Caleb please do not break any further cameras."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Slide#1_Redirect_Lines_Index0_Line"
+msgid "Ah Caleb, I’m sure it’s still lovely..."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryMeterIntro_Lines_Index0_Line"
+msgid "Ah Caleb, you found it! "
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCameraIntro_Lines_Index0_Line"
+msgid ""
+"Ah Caleb… I would like to introduce you to our patent-pending Emotional "
+"Maintenance & Diagnostic Regulation system."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCamKnockOff_0_Lines_Index0_Line"
+msgid "Ah Caleb… I’d like to make a quick note regarding our patent-pending"
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCamKnockOff_1_Lines_Index0_Line"
+msgid "Ah Caleb… no. Please refrain from breaking any cameras."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Maintenance_Deeper_Lines_Index0_Line"
+msgid "Ah we’re unfortunately a bit deeper than I anticipated…"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage1_Lines_Index6_Line"
+msgid ""
+"Ah! And it looks like we’re going to play a little precautionary game. Quite "
+"a simple one really."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Maintenance_Detour_Lines_Index1_Line"
+msgid ""
+"Ah! The Breakroom! Yes, the Breakroom. I'm certain that's the way we went "
+"before."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_ROT_Lines_Index0_Line"
+msgid "Ah, Welcome to Walter…"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Intro_Lines_Index1_Line"
+msgid ""
+"Ah, but it looks like we’ll need to quickly address one last safety measure "
+"before we get fully reestablished on our designated path."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Maintenance_Redirect_Lines_Index0_Line"
+msgid "Ah, come on Caleb... We have so much more ahead of us..."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_Reinforce_0_Lines_Index0_Line"
+msgid "Ah, here we are."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_FoundWW_Lines_Index0_Line"
+msgid "Ah, it looks like we're here…"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_Redirect_Lines_Index0_Line"
+msgid "Ah, let's not waste time..."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_SmileEncounter_Maintenance_Lines_Index0_Line"
+msgid "Ah, see? Nothing to worry over at all."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_FunOMeter_Intro_Lines_Index0_Line"
+msgid "Ah, the Fun-O-Meter. A perfect stop on our joy filled journey. "
+msgstr ""
+
+msgctxt "NarrationTextData/CM_ROT_Rejoin_Lines_Index0_Line"
+msgid "Ah, there we are… It seems you got a bit distracted back there…"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_SmileEscape_Lines_Index0_Line"
+msgid ""
+"Ah, well! Just in time aren't we… A bit close for comfort, but we made it."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_LovelyPainting_Pt1_Lines_Index0_Line"
+msgid "Ah, what a lovely painting..."
+msgstr ""
+
+msgctxt ""
+"NarrationTextData/WW_DeepStorage_Decision_Disobey_Pt1_Lines_Index0_Line"
+msgid "Ah- Caleb please- no, not there. This isn't where we need to go."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_AlternateDestination_Lines_Index0_Line"
+msgid ""
+"Ah... Please follow the illuminated arrows to our alternate destination."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_ROT_Lines_Index5_Line"
+msgid "Ahm -excuse me... Let’s move on…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryMeterNudge_Pt4_Lines_Index0_Line"
+msgid "Ahm- Caleb… I believe you’ve left something behind…"
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_SNF_Lines_Index1_Line"
+msgid "Ahm- I imagine you’re feeling a tad disoriented... "
+msgstr ""
+
+msgctxt "NarrationTextData/BS_Intro_Lines_Index0_Line"
+msgid "Ahm- I see you’ve centered your attention on our childhood basement."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_LovelyPainting_Pt3_Lines_Index0_Line"
+msgid ""
+"Ahm- Imagine all the time and effort that went into making that painting "
+"look just how it does now. "
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage1_Lines_Index10_Line"
+msgid "Ahm- you’ve got this."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_ThroatClear_Lines_Index0_Line"
+msgid "Ahm."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryMeterNudge_Pt2_Lines_Index0_Line"
+msgid "Ahm..."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_WonderOff_Lines_Index0_Line"
+msgid ""
+"Ahm... I see you've managed to find a rather gloomy corner in this otherwise "
+"joy-filled memory."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_1_Lines_Index0_Line"
+msgid ""
+"Ahm... Not to worry, while you do currently seem to be quite lost. I’m sure, "
+"eventually, you’ll figure it all out."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryDisposal_Pt2_Lines_Index3_Line"
+msgid "All to keep you happy…"
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index14_Line"
+msgid ""
+"All you need to do is focus. Maybe there’s a specific plant you remember "
+"from your parents’ bedroom,"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_Trapped_Lines_Index0_Line"
+msgid "Alright, not to worry! Our mind is just having a bit of fun."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage1_Pt2_Lines_Index0_Line"
+msgid "Alright, you remember that little game we played?"
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_SNF_Lines_Index7_Line"
+msgid "And actually, that’s precisely why you're here..."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_ROT_Rejoin_Lines_Index3_Line"
+msgid "And bear no truth or substance whatsoever."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryDisposal_Pt2_Lines_Index4_Line"
+msgid "And for what?"
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index12_Line"
+msgid ""
+"And that’s precisely where we’re going. To go capture that very essence of "
+"joy."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_SNF_Lines_Index5_Line"
+msgid ""
+"And this vast void of nothingness that we are currently floating in, is your "
+"mind."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_ROT_Rejoin_Lines_Index1_Line"
+msgid "Before we continue, I should remind you."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt4_Lines_Index2_Line"
+msgid "But I can see you’re not going to listen."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Intro_Lines_Index2_Line"
+msgid "But I'm quite certain you'll find it entirely manageable..."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_3_Lines_Index2_Line"
+msgid ""
+"But in fact, considering the abnormally large amount of time you've already "
+"spent on this puzzle,"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Nudge_Lines_Index1_Line"
+msgid "But it’s ok, we’ve been here before haven’t we..."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Intro_Lines_Index2_Line"
+msgid ""
+"But no need to worry… by doing something out of the ordinary or unexpected, "
+"we should be able to break the cycle,"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_LockedDoor_Lines_Index4_Line"
+msgid "But not to worry, nothing here is ever truly shut out."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_SNF_Lines_Index3_Line"
+msgid "But not to worry... This is perfectly normal."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index6_Line"
+msgid ""
+"But not to worry... This is perfectly normal. To start, your name is "
+"Caleb... And this vast void of nothingness that we are currently floating "
+"in, is your mind."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_MemoryLoop_Nudge2_Lines_Index1_Line"
+msgid "But please Caleb, we have places to be."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage2_Lines_Index3_Line"
+msgid "But please rest assured, we've again come entirely prepared for this…"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_Maintenance_Lines_Index4_Line"
+msgid ""
+"But please take caution, as even though he has always played a crucial and "
+"irreplaceable role in our childhood as our sole unwavering companion..."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage1_Lines_Index3_Line"
+msgid "But please, don’t worry."
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Switch1_Lines_Index1_Line"
+msgid "But please, let’s not interact with any more mysterious switches."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Slide#1_Redirect_Lines_Index1_Line"
+msgid "But there are more memories waiting."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_SmileEscape_Lines_Index3_Line"
+msgid ""
+"But these little intrusions are actually harmless, and completely made up."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_8_Lines_Index3_Line"
+msgid ""
+"But, despite this, might I remind you of the many joy-filled memories yet to "
+"come on our maintenance route."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_FunOMeter_Intro_Lines_Index2_Line"
+msgid ""
+"But, given your demonstrated proclivity for resolving unexpected challenges, "
+"I’m sure you can figure it out."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_2_Lines_Index1_Line"
+msgid "But, might I remind you, that this little setback is just that… "
+msgstr ""
+
+msgctxt "NarrationTextData/WW_ROTSpill_Pt2_Lines_Index1_Line"
+msgid ""
+"But, we can fix this… Please continue directly toward the large secondary "
+"slide tower."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage2_Lines_Index0_Line"
+msgid "CALEB STOP I-"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Intro_ROT_Lines_Index0_Line"
+msgid "CALEB! WHAT ARE YOU DOING!?"
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Erase_Pt3_Lines_Index0_Line"
+msgid "Caleb! Please… Let’s get back to our maintenance."
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Confirm_Lines_Index0_Line"
+msgid "Caleb… What- how did you get here?..."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_ROTSpill_Pt1_Lines_Index4_Line"
+msgid "Certainly not the sort of thing we want crowding this lovely memory."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_Redirect_0_Lines_Index0_Line"
+msgid "Come on Caleb, we have so much more waiting for us..."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt5_Lines_Index2_Line"
+msgid ""
+"Continuing to seep in and fester, until it eventually consumes everything we "
+"hold dear."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_FunOMeter_Retry_Pt6_Lines_Index0_Line"
+msgid "Deep breath in…"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_FunOMeter_Retry_Pt6_Lines_Index1_Line"
+msgid "Deep breath out…"
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCamKnockOff_2_Lines_Index2_Line"
+msgid "Destroying them will bring no benefit whatsoever."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Slide#3_Redirect_Lines_Index0_Line"
+msgid "Don't worry about that, it's just a little mess..."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_FunOMeter_Retry_Pt1_Lines_Index0_Line"
+msgid "Don’t worry Caleb, we have plenty of time."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_8_Lines_Index4_Line"
+msgid ""
+"Each one brimming with that uncomplicated joy that makes life… worth it."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCamKnockOff_0_Lines_Index1_Line"
+msgid "Emotional Maintenance & Diagnostic Regulation system."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryDisposal_Pt2_Lines_Index1_Line"
+msgid "Everything I’ve built for you…"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryDisposal_Pt2_Lines_Index2_Line"
+msgid "Everything I’ve buried for you…"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_PlayplaceIntro_Lines_Index1_Line"
+msgid ""
+"Everything here has been tirelessly tested and is guaranteed to be "
+"completely safe."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_Decision_Obey_Lines_Index0_Line"
+msgid "Excellent, Caleb."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Intro_Lines_Index0_Line"
+msgid ""
+"Excellent. We’ve successfully arrived in our recollection of the Bounce "
+"House…"
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index16_Line"
+msgid ""
+"Focus on that, and suddenly, you might find yourself in the middle of that "
+"very park again."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_SmileEncounter_Maintenance_Lines_Index4_Line"
+msgid ""
+"For now, let’s take a slight discretionary detour, and center our focus on "
+"something a bit more productive."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WonderOff_Lines_Index0_Line"
+msgid "Haha, there you are..."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt1_Lines_Index0_Line"
+msgid "Haha.. Our mind has made quite a mess hasn’t it?"
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_2_Lines_Index0_Line"
+msgid ""
+"Having a bit of trouble again are we? You seem to be temporarily stuck. "
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_Maintenance_Lines_Index5_Line"
+msgid "He is rather delicate, and requires the utmost care and restraint."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index0_Line"
+msgid "Hello. I- wait- no-..."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_SNF_Lines_Index0_Line"
+msgid "Hello. I- wait- no-..."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index1_Line"
+msgid ""
+"Hello. I.. am you... Or rather, a particularly articulate aspect of you."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Intro_Lines_Index0_Line"
+msgid "Here we are. Welcome to our memory of the Waterworks…"
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_4_Lines_Index0_Line"
+msgid "Hi. I'm just popping in to let you know… You're doing great."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_6_Lines_Index0_Line"
+msgid ""
+"Hi. I’m just quickly popping in to remind you, don’t be afraid to have some "
+"fun."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKInterruption_Lines_Index0_Line"
+msgid "Hm... I’m sure it’s nothing. Here."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_KeycardCloset_Lines_Index0_Line"
+msgid "Hm... Unfortunately it looks like we'll need to momentarily part ways."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_FunOMeter_Retry_Pt3_Lines_Index0_Line"
+msgid ""
+"Hmm… I believe you do need to shoot the foam cubes into that great big "
+"funnel…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_Initial_Lines_Index0_Line"
+msgid "Hmm… It looks like we have… Diverted slightly."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_LockedDoor_Lines_Index0_Line"
+msgid ""
+"Hm… It would seem we’ve inadvertently drifted into a section of our memory "
+"that our mind has chosen to… set aside."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index13_Line"
+msgid ""
+"How do we access these memories? Another great question... It’s quite simple."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index10_Line"
+msgid "How do we get that joy? I’m glad you asked..."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt5_Lines_Index6_Line"
+msgid ""
+"However, in the event you just can’t seem to focus, despite numerous polite "
+"and warm hearted reminders,"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryMeterBreak_Lines_Index3_Line"
+msgid ""
+"However, rest assured we’ve come prepared for this. Please continue through "
+"the unmarked door to your right."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Intro_Maintenance_Lines_Index1_Line"
+msgid ""
+"However, this memory does appear to be quite full of joy, and should in fact "
+"be the perfect place to continue filling up our memory meter."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_3_Lines_Index1_Line"
+msgid "I assure you these feelings are completely valid."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt5_Lines_Index4_Line"
+msgid "I can assure you there is absolutely no cause for concern."
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Jump_Lines_Index2_Line"
+msgid "I can find another way… I- I can! Please! I DON'T WANT TO-"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt4_Lines_Index1_Line"
+msgid ""
+"I do have to remind you, that these lingering feelings of guilt and "
+"emptiness are nothing to worry about."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_3_Lines_Index0_Line"
+msgid "I imagine you might currently be experiencing feelings of frustration."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_5_Lines_Index0_Line"
+msgid ""
+"I imagine you're currently feeling quite stuck... But remember, we’ve been "
+"through all of this before."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage1_Lines_Index2_Line"
+msgid "I imagine you’re feeling a bit unsettled."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_8_Lines_Index0_Line"
+msgid "I know at times it can be discouraging..."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_0_Lines_Index0_Line"
+msgid "I see you're having a bit of trouble…"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_MemoryLoop_Nudge2_Lines_Index0_Line"
+msgid "I see you’re finding this hall quite amusing…"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WonderOff_Lines_Index1_Line"
+msgid "I see you’ve found a little crack in our joy-filled maintenance route."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_SmileEscape_Lines_Index1_Line"
+msgid ""
+"I suppose now would be a great time to continue our discussion on those "
+"precautions that we skipped over earlier."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryDisposal_Pt1_Lines_Index1_Line"
+msgid "I told you to STAY PUT!!"
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCamKnockOff_3_Lines_Index1_Line"
+msgid ""
+"I understand they can be unnerving, but please rest assured they watch over "
+"us with only our very best interests in mind."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_Intro_Lines_Index4_Line"
+msgid "I'll be back momentarily."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage2_Lines_Index10_Line"
+msgid "I'll be back momentarily…"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_Trapped_Lines_Index2_Line"
+msgid "I'll be right here, silently cheering you on."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_7_Lines_Index0_Line"
+msgid ""
+"I'm just popping in to let you know… Whatever it is you are currently doing, "
+"you’re doing it wonderfully."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_MemoryLoop_Intro_Alternate_Lines_Index1_Line"
+msgid "I'm sure you can figure this out. I'll be back momentarily."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Intro_ROT_Lines_Index1_Line"
+msgid "I- I'm sorry... I was getting quite worried there for a minute."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index2_Line"
+msgid ""
+"I.. am your conscience. Your sense of direction. That faint voice on your "
+"shoulder that whispers, perhaps that slice of cake is a bit unnecessarily "
+"wide?"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_MemoryLoop_Nudge1_Lines_Index0_Line"
+msgid "If this hall seems familiar, it’s because it is."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCameraIntro_Lines_Index4_Line"
+msgid ""
+"If you are to ever come across something unpleasant feeling again, or "
+"possibly anything relating to the inescapable dread of rotting past memories,"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Intro_ROT_Lines_Index4_Line"
+msgid ""
+"If you see anything like that again, please immediately turn away and pay "
+"absolutely no attention to it."
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Erase_Pt2_Lines_Index1_Line"
+msgid ""
+"Imagine that winding lazy river in the Waterworks, or the Playplace and all "
+"the… all the wonderful… "
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_ROT_Lines_Index3_Line"
+msgid "In a moment, you’ll get to actually hold her..."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_Maintenance_Lines_Index3_Line"
+msgid "In a moment, you’ll get to actually hold him again."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCamKnockOff_3_Lines_Index2_Line"
+msgid ""
+"In fact, I’d like you to try a visualization exercise. Instead of cameras, "
+"please try imagining them as small, affectionate birds nesting in the "
+"ceiling."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt5_Lines_Index5_Line"
+msgid ""
+"In routine, simply staying focused on the joys of life renders that mold "
+"entirely inert."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index9_Line"
+msgid ""
+"In these times, we, or you rather, need to pop in and give it a small "
+"infusion of joy, a nudge, really, to get the gears of our mind back into "
+"motion."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Intro_Maintenance_Lines_Index0_Line"
+msgid ""
+"It appears we’ve experienced a minor navigational error. We seem to have "
+"skipped forward."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage2_Lines_Index0_Line"
+msgid "It appears your focus is ever so slightly slipping…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Intro_Lines_Index0_Line"
+msgid "It appears you’ve caught yourself in a memory loop. "
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Extra_Lines_Index0_Line"
+msgid "It is quite an odd mechanism isn’t it?"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_MemoryLoop_Intro_Alternate_Lines_Index0_Line"
+msgid "It looks like you've stumbled into another memory loop..."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryMeterNudge_Pt1_Lines_Index0_Line"
+msgid "It looks like you’ve left something on the floor…"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage1_Lines_Index0_Line"
+msgid "It seems we unfortunately don’t have as much time as I had hoped..."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Intro_ROT_Lines_Index2_Line"
+msgid ""
+"It seems whatever you experienced back there, distracted you and triggered "
+"you to jump to a-"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Nudge_Lines_Index0_Line"
+msgid "It seems you're having a bit of trouble."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryMeterIntro_Lines_Index2_Line"
+msgid ""
+"It tracks all those perfect little pockets of joy we experience, and stores "
+"them for us."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_LovelyPainting_Pt3_Lines_Index1_Line"
+msgid "It would be a shame if it went unnoticed..."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_SNF_Lines_Index6_Line"
+msgid ""
+"It’s not always empty of course, we’re just doing a bit of maintenance at "
+"the moment..."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index7_Line"
+msgid ""
+"It’s not always empty of course, we’re just doing a bit of maintenance at "
+"the moment... And actually, that’s precisely why you're here."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_FunOMeter_Retry_Pt2_Lines_Index0_Line"
+msgid "It’s okay Caleb… I’m sure you’ll get it this time…"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Lost_Lines_Index8_Line"
+msgid "I’ll return shortly…"
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_5_Lines_Index1_Line"
+msgid ""
+"I’m sure the answer to this particular obstacle is just around the corner…"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_Maintenance_Lines_Index2_Line"
+msgid ""
+"I’m sure you remember the countless times he has personally helped lift our "
+"spirits after a rather long day."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_ROT_Lines_Index2_Line"
+msgid ""
+"I’m sure you remember the countless times he has personally helped lift our "
+"spirits after a rather long day."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_8_Lines_Index5_Line"
+msgid "I’m sure you’ll get through this."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Lost_Lines_Index2_Line"
+msgid "I’ve corrected everything you’ve messed up,"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Lost_Lines_Index1_Line"
+msgid "I’ve done everything right. "
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Lost_Lines_Index4_Line"
+msgid "I’ve fixed it ALL!"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage1_Lines_Index8_Line"
+msgid "Just a little game of focus"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_SmileEscape_Lines_Index4_Line"
+msgid ""
+"Just like when you’re at a crosswalk and have the sudden urge to step into "
+"oncoming traffic."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage1_Lines_Index7_Line"
+msgid ""
+"Just listen to the doors on either side of this room, and if one starts to "
+"creep open, hurry over and close it."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_6_Lines_Index2_Line"
+msgid ""
+"Just make sure you do all of it inside our carefully constructed maintenance "
+"path."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage1_Pt2_Lines_Index2_Line"
+msgid "Just- do that again. I’ll begin to reorient on to our-"
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Erase_Pt3_Lines_Index2_Line"
+msgid "Just-… Just give me a moment to remember…"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt1_Lines_Index1_Line"
+msgid "Leave this be for now, there’s somewhere we need to be."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Lost_Lines_Index7_Line"
+msgid "Let’s get you back on track…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Maintenance_Door_Storage_Lines_Index0_Line"
+msgid "Let’s not bore ourselves with storage Caleb. "
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCamKnockOff_2_Lines_Index0_Line"
+msgid ""
+"Might I remind you that these cameras are part of our patent-pending "
+"Emotional Maintenance & Diagnostic Regulation system,"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_TVNudge_Lines_Index0_Line"
+msgid "Might I suggest watching some Television..."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage2_Lines_Index9_Line"
+msgid ""
+"Most importantly, please stay firmly within the walls of this room, and "
+"refrain from toggling the protocol unless absolutely necessary…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_ROTSpill_Pt1_Lines_Index2_Line"
+msgid ""
+"Much like that sandwich you've left forgotten in the back of your fridge."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryMeterBreak_Lines_Index0_Line"
+msgid "NO-"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryDisposal_Alternate_0_Lines_Index0_Line"
+msgid "NO- Caleb Pleas- COME BACK- This isn't Righ-"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryDisposal_Alternate_1_Lines_Index0_Line"
+msgid "NO- Caleb please come bac-"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Maintenance_Deeper_Lines_Index1_Line"
+msgid "No matter. You’ve got this…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryMeterIntro_Lines_Index5_Line"
+msgid "No need to rush. Just keep your eyes open."
+msgstr ""
+
+msgctxt ""
+"NarrationTextData/WW_DeepStorage_Decision_Disobey_Pt2_Lines_Index0_Line"
+msgid "No no... Do- Caleb don't do this- plea-"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_SmileEncounter_Intro_Lines_Index0_Line"
+msgid "No, no don't-"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_ROT_Decision_1_Lines_Index0_Line"
+msgid "No- Don- PLE-"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_Redirect_SNF_Lines_Index0_Line"
+msgid "No- no please. This place isn't quite ready yet."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_ROT_Decision_0_Lines_Index0_Line"
+msgid "No.. no please… This place isn’t quite ready yet…"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage3_Lines_Index0_Line"
+msgid "No... No! NO! What are you Doing?! Turn the TV off! You're ruining it!!"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Lost_Lines_Index0_Line"
+msgid "No... No.. t- this can’t be right…"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryDisposal_Pt1_Lines_Index0_Line"
+msgid "NononoNO what are you doing?!?"
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_8_Lines_Index1_Line"
+msgid "Not getting it right when you're trying your best,"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_Maintenance_Lines_Index1_Line"
+msgid ""
+"Not just a cute red balloon, but an integral and fundamental part of our "
+"childhood."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_ROT_Lines_Index1_Line"
+msgid ""
+"Not just a cute red balloon, but an integral and fundamental part of our "
+"childhood."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WonderOff_Lines_Index2_Line"
+msgid "Not to worry, there’s nothing for us here anyways."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_0_Lines_Index1_Line"
+msgid ""
+"Not to worry, while I can’t directly help you solve this, I can provide "
+"various thoughtful and warm-hearted lines of emotional encouragement…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_Decision_Obey_Lines_Index1_Line"
+msgid "Now let's get going…"
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index5_Line"
+msgid ""
+"Now, I imagine you’re feeling a tad disoriented... Uncertain possibly... "
+"like a sock that's lost its pair in the dryer of existence."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index17_Line"
+msgid ""
+"Now, let's not get ahead of ourselves, there are a few precautions we should "
+"go over."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_ROT_Rejoin_Lines_Index5_Line"
+msgid "Now, let’s move over to a different memory…"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_SmileBait_Pt2_Lines_Index1_Line"
+msgid ""
+"Now, we can finally get you going where you should have been headed in the "
+"first place."
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Erase_Pt1_Lines_Index0_Line"
+msgid "OW! Caleb! Whatever you’re doing, stop it."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_ROTSpill_Pt1_Lines_Index1_Line"
+msgid "Old... Rotten..."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_Intro_Lines_Index2_Line"
+msgid ""
+"Our memories here and their corresponding feelings of loneliness, anxiety, "
+"and soul-crushing guilt are rather inconvenient."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_LockedDoor_Lines_Index5_Line"
+msgid ""
+"Our mind always leaves a little key tucked under the proverbial doormat."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Extra_Lines_Index1_Line"
+msgid ""
+"Our mind becomes so busy, racing with so many different thoughts, scenarios "
+"and possibilities..."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_LockedDoor_Lines_Index1_Line"
+msgid ""
+"Our mind does this occasionally to protect us from the memories and "
+"experiences it deems rather non-essential."
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Switch2_Lines_Index0_Line"
+msgid "Ow- Caleb please, try to be more careful with what you touch"
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Switch1_Lines_Index0_Line"
+msgid "Ow- Caleb, I can see you’re curious."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_Initial_Lines_Index2_Line"
+msgid ""
+"Please direct your attention over to the green illuminated exit sign hanging "
+"over the stairs."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_SmileBait_Pt1_Lines_Index0_Line"
+msgid ""
+"Please flip the chute power switch and position yourself directly above the "
+"large red dot."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_Complete_Lines_Index1_Line"
+msgid "Please follow the illuminated arrows to our alternate destination."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_SmileEncounter_Maintenance_Lines_Index5_Line"
+msgid ""
+"Please follow the series of red illuminated arrows to our emergency exit."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt1_Lines_Index2_Line"
+msgid "Please immediately continue through the entrance door."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_ROT_Decision_0_Lines_Index1_Line"
+msgid ""
+"Please immediately disregard whatever feelings caused you to come here, and "
+"return to our established reconstructive path."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_WonderOff_Lines_Index1_Line"
+msgid ""
+"Please immediately disregard whatever feelings caused you to seek this out, "
+"and return to the happier parts of this memory."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt2_Lines_Index1_Line"
+msgid "Please immediately redirect yourself through the staff access hall."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt3_Lines_Index2_Line"
+msgid "Please immediately stop whatever you’re thinking about."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_KeycardCloset_Lines_Index1_Line"
+msgid ""
+"Please remain on course, retrieve the keycard, and promptly return back "
+"without any further unnecessary interruptions."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCamKnockOff_0_Lines_Index2_Line"
+msgid "Please stop destroying it."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WonderOff_Lines_Index3_Line"
+msgid "Please turn back immediately."
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Jump_Lines_Index1_Line"
+msgid "Please. Caleb this isn’t what I meant…"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Intro_ROT_Lines_Index3_Line"
+msgid "Rather unpleasant series of entirely fabricated memories..."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_Reinforce_0_Lines_Index1_Line"
+msgid ""
+"See, We can worry about all that mess later... We have so much more ahead of "
+"us."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage2_Lines_Index7_Line"
+msgid ""
+"Should you see anything in the kitchen or hall that strikes you with "
+"feelings of guilt, fear, or utter and total hopelessness,"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt5_Lines_Index0_Line"
+msgid ""
+"Since you have a moment, I’d like to quickly draw a parallel between your "
+"subconscious and that sandwich I had mentioned before."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Extra_Lines_Index3_Line"
+msgid ""
+"So hopelessly trapped inside itself that it’s unable to even decide which "
+"foot to move next."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_ROT_Rejoin_Lines_Index4_Line"
+msgid ""
+"So please, if you do see anything like that again, immediately turn away, "
+"and forget entirely about its existence… "
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt4_Lines_Index3_Line"
+msgid ""
+"So, before we continue our experience, we’re going to need to make a slight "
+"detour."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKCompleted_Lines_Index2_Line"
+msgid ""
+"So, rather than dealing with all this mess now, why don’t we take a stroll "
+"around and try to focus on something else."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_Intro_Lines_Index3_Line"
+msgid ""
+"So, while I find a way to properly reorient onto our designated path, please "
+"find a way to occupy yourself."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCamKnockOff_3_Lines_Index3_Line"
+msgid ""
+"Surely throwing heavy objects at such distinctively cute avian creatures is "
+"not something you would do."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage3_Lines_Index1_Line"
+msgid "THIS IS ALL YOUR FAULT"
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_2_Lines_Index2_Line"
+msgid "Temporary. I'm sure you'll find a way out of this."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage2_Lines_Index4_Line"
+msgid ""
+"Thanks to our patent pending Emotional Maintenance & Diagnostic Regulation "
+"system, we have everything under control."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_LovelyPainting_Pt2_Lines_Index0_Line"
+msgid "That painting really is something, isn’t it?"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Extra_Lines_Index2_Line"
+msgid "That the only thing it can eventually do, is stand still."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_ROT_Rejoin_Lines_Index2_Line"
+msgid ""
+"That these intrusive thoughts and their accompanying feelings of loneliness, "
+"guilt, and existential dread, are in fact, not real..."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Maintenance_Door_Drainage_Lines_Index0_Line"
+msgid "That's just drainage access Caleb."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index3_Line"
+msgid ""
+"That's often me. Though, admittedly, sometimes you don't listen. But that's "
+"alright. "
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryMeterIntro_Lines_Index3_Line"
+msgid ""
+"The more we explore, the more we focus on all that joy, the more this meter "
+"will fill."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_ROTSpill_Pt1_Lines_Index3_Line"
+msgid ""
+"There is no real danger to it of course, but it is unfortunately quite "
+"unpleasant."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_Initial_Lines_Index1_Line"
+msgid "There seems to have been a minor error, but not to worry…"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage1_Lines_Index4_Line"
+msgid "These knocks are just little intrusive thoughts."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage2_Lines_Index6_Line"
+msgid ""
+"These switches have just now been installed and successfully connected up to "
+"our fail safe erasure protocol."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_SmileEscape_Lines_Index6_Line"
+msgid ""
+"They are not the most pleasant of memories though, so for our purposes here, "
+"as we fill up our memory meter,"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage1_Lines_Index5_Line"
+msgid ""
+"They're not real in any capacity, only little flickers of our imagination..."
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Erase_Pt2_Lines_Index0_Line"
+msgid "Think of all the wonderful things you could be experiencing right now."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_LockedDoor_Lines_Index2_Line"
+msgid ""
+"Think of this as a sort of cognitive guardrail, designed to keep us seated "
+"firmly in our reality."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Intro_Lines_Index1_Line"
+msgid ""
+"This happens occasionally when the mind gets a tad overstimulated and "
+"momentarily forgets exactly what comes next."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCameraIntro_Lines_Index1_Line"
+msgid ""
+"This incredibly sophisticated system of cameras, barriers, and "
+"interconnected thought processes"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_Intro_Lines_Index1_Line"
+msgid "This is a great start. But not exactly what we’re looking for..."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt3_Lines_Index1_Line"
+msgid "This is entirely the opposite of where you are supposed to be going!"
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCameraIntro_Lines_Index3_Line"
+msgid ""
+"This is of course due to your recent unexpected inability to focus. But "
+"please don’t be alarmed… "
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryMeterIntro_Lines_Index1_Line"
+msgid "This is our memory meter."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryMeterIntro_Lines_Index6_Line"
+msgid ""
+"This joy has always been here, we’re simply remembering how to see it..."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage2_Lines_Index1_Line"
+msgid ""
+"To prevent us from slipping any further, please ensure this memory stays "
+"fully and entirely illuminated."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_SNF_Lines_Index4_Line"
+msgid "To start, your name is Caleb..."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Maintenance_Redirect_Lines_Index1_Line"
+msgid "Trust me, what’s next is worth it. Let’s keep going."
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Switch3_Lines_Index0_Line"
+msgid "Ugh- Caleb! What are you doing??"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_ROTSpill_Pt1_Lines_Index0_Line"
+msgid "Ugh… You see, this is precisely the muck I had spoken of earlier…"
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_SNF_Lines_Index2_Line"
+msgid ""
+"Uncertain possibly... like a sock that's lost its pair in the dryer of "
+"existence."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_LockedDoor_Lines_Index3_Line"
+msgid "Unfortunately it appears we’ve now stumbled over the edge."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_SmileEncounter_Maintenance_Lines_Index1_Line"
+msgid ""
+"Unfortunately it seems our mind has become a bit preoccupied and allowed "
+"some of that existential muck"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_FunOMeter_Intro_Lines_Index1_Line"
+msgid "Unfortunately it seems to be momentarily un-powered."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage2_Lines_Index2_Line"
+msgid "Unfortunately it seems your focus has become fundamentally unstable."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt4_Lines_Index0_Line"
+msgid "Unfortunately you've become quite distracted."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKCompleted_Lines_Index1_Line"
+msgid ""
+"Unfortunately, it appears this memory is still exhibiting signs of "
+"unpleasantness, discomfort, and existential dread."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Extra_Lines_Index4_Line"
+msgid ""
+"Until, of course, it eventually realizes… that there was nothing worth "
+"worrying about to begin with…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Maintenance_Detour_Lines_Index0_Line"
+msgid "Wait... That-... that can't be right..."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt2_Lines_Index0_Line"
+msgid "Wait… No..."
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Jump_Lines_Index0_Line"
+msgid "Wait… No… No. Not Everything…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Slide#1_Redirect_Lines_Index2_Line"
+msgid "We can loop back around for this particular one again later…"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Intro_ROT_Lines_Index5_Line"
+msgid ""
+"We have a purpose here, and quite a full itinerary ahead of us. Let’s get "
+"going…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_DeepStorage_Initial_Lines_Index3_Line"
+msgid ""
+"We have maintenance to tend to, and far brighter memories to experience… "
+"Let’s get going…"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_Redirect_Lines_Index1_Line"
+msgid "We have so many joy-filled memories waiting..."
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Erase_Pt3_Lines_Index1_Line"
+msgid "We have so much to do. So many memories waiting to wander off in…"
+msgstr ""
+
+msgctxt "NarrationTextData/GL_Reinforce_1_Lines_Index0_Line"
+msgid "We made it."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt5_Lines_Index7_Line"
+msgid "We need to take slightly more aggressive precautions."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index4_Line"
+msgid ""
+"We're a team you and I. A slightly disagreeable team at times, but a team "
+"nonetheless."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_FoundWW_Lines_Index1_Line"
+msgid "Welcome back to the WaterWorks."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_WalterIntro_Maintenance_Lines_Index0_Line"
+msgid "Welcome to Walter…"
+msgstr ""
+
+msgctxt "NarrationTextData/ER_Erase_Pt2_Lines_Index2_Line"
+msgid "Well, I'm sure it was something pleasant..."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryMeterBreak_Lines_Index2_Line"
+msgid ""
+"Well… It appears that your... wandering attention... has inadvertently "
+"caused a critical destabilization in our Memory Meter."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKStage1_Lines_Index1_Line"
+msgid "We’ll need to pop over to a different, happier memory rather soon. "
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_6_Lines_Index1_Line"
+msgid ""
+"We’re here to collect joy after all. Go let loose, jump around, knock "
+"something over."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt3_Lines_Index0_Line"
+msgid "What are you doing?!"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage1_Pt1_Lines_Index0_Line"
+msgid "What are you doing?!"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_MemoryDisposal_Pt2_Lines_Index0_Line"
+msgid "What have you done…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryMeterIntro_Lines_Index4_Line"
+msgid ""
+"When the meter is full, well that means we’ve successfully re-experienced "
+"all the joy that memory has to offer, and we can move on."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index11_Line"
+msgid ""
+"While it might seem empty here at the moment, there are in fact little "
+"momentary bits of happiness tucked away all around us in our memories."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt5_Lines_Index3_Line"
+msgid ""
+"While the complete and total collapse of your perceived reality may sound "
+"distressing,"
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Lost_Lines_Index5_Line"
+msgid "Why do you insist on defying me?!"
+msgstr ""
+
+msgctxt ""
+"NarrationTextData/WW_DeepStorage_Decision_Disobey_Pt1_Lines_Index1_Line"
+msgid "Why don't we go back up the stairs? Back to all the fun."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_Trapped_Lines_Index1_Line"
+msgid "Why don't you take a look around and find a way to get this unlocked."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Slide#3_Redirect_Lines_Index1_Line"
+msgid "Why don't you try out this green one instead?"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_ROTSpill_Pt1_Lines_Index5_Line"
+msgid "Why don’t you get this washed off..."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_Complete_Lines_Index0_Line"
+msgid "Wonder-... Hm…"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Slide#2_Initial_Lines_Index0_Line"
+msgid "Wonderful choice Caleb."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_FunOMeter_Started_Lines_Index0_Line"
+msgid "Wonderful. Excellent work Caleb."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Complete_Lines_Index0_Line"
+msgid ""
+"Wonderful. We’re now fully re-established on our intended course, and should "
+"be back in the Waterworks momentarily."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_Slide#1_After_Lines_Index0_Line"
+msgid "Wonderful. We’ve got our first few ticks on our memory meter."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_PlayplaceIntro_Lines_Index0_Line"
+msgid "Wonderful. We’ve made it to the Playplace."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_SmileBait_Pt2_Lines_Index0_Line"
+msgid "Wonderful..."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_KKCompleted_Lines_Index0_Line"
+msgid "Wonderfully done Caleb."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage1_Pt2_Lines_Index1_Line"
+msgid "Yes the one with the doors, remember that??"
+msgstr ""
+
+msgctxt "NarrationTextData/WW_ROTSpill_Pt2_Lines_Index0_Line"
+msgid ""
+"Yes, alright that’s quite enough. You unfortunately seem to be still "
+"somewhat distracted."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage2_Lines_Index5_Line"
+msgid ""
+"You might now notice the two illuminated light switches located conveniently "
+"in the hall and kitchen doorways."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_DetHalls_Pt5_Lines_Index1_Line"
+msgid ""
+"You see, much like the mold on that sandwich, if given the opportunity, this "
+"rot will begin to spread…"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_SmileEscape_Lines_Index2_Line"
+msgid ""
+"You see, sometimes our mind can be a bit eccentric and imagine little "
+"scenarios that can get a tad dark."
+msgstr ""
+
+msgctxt "NarrationTextData/ES_Introduction_Lines_Index8_Line"
+msgid ""
+"You see, sometimes our mind can get a bit gummed up, running low on that "
+"pure, uncomplicated joy that makes life worth it..."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_SmileEscape_Lines_Index5_Line"
+msgid ""
+"You’d never actually do it of course, but those thoughts are there "
+"nonetheless. Just little tangents our mind runs off with to entertain itself."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_0_Lines_Index2_Line"
+msgid "You’re doing wonderfully."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_FunOMeter_Retry_Pt5_Lines_Index0_Line"
+msgid "You’re having quite a bit of trouble aren’t you?"
+msgstr ""
+
+msgctxt "NarrationTextData/CM_MemoryLoop_Intro_Lines_Index1_Line"
+msgid "You’ve again gotten yourself stuck in a memory loop."
+msgstr ""
+
+msgctxt "NarrationTextData/WW_MemoryLoop_Intro_Lines_Index3_Line"
+msgid "and pop ourselves right back on path."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_8_Lines_Index2_Line"
+msgid "can make you feel like there's something fundamentally wrong with you."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCamKnockOff_2_Lines_Index1_Line"
+msgid ""
+"designed specifically to ensure our re-experiencing remains as joy-filled as "
+"possible..."
+msgstr ""
+
+msgctxt "NarrationTextData/BH_Lost_Lines_Index3_Line"
+msgid ""
+"every mistake, every misdirection, every DISTRACTION you’ve entertained,"
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCameraIntro_Lines_Index2_Line"
+msgid ""
+"has now been successfully reinstated after nearly a full year of "
+"retirement..."
+msgstr ""
+
+msgctxt "NarrationTextData/CM_Maintenance_SmileEscape_Lines_Index7_Line"
+msgid ""
+"it’s best we stay away, and set our focus on the joy-filled parts of our "
+"mind…"
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage2_Lines_Index8_Line"
+msgid ""
+"please immediately flip the switch in the associated doorway to toggle the "
+"protocol."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_SecurityCameraIntro_Lines_Index5_Line"
+msgid ""
+"please immediately turn away from whatever it is, and focus solely on this "
+"wonderfully complex and overarching safety system."
+msgstr ""
+
+msgctxt "NarrationTextData/GL_EmotionalEncouragement_3_Lines_Index3_Line"
+msgid "you're statistically more likely to find the answer now than ever."
+msgstr ""
+
+msgctxt "NarrationTextData/BS_END_Stage1_Pt2_Lines_Index3_Line"
+msgid "…"
+msgstr ""
